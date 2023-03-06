@@ -1,16 +1,34 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=Header&text=Welcome!&fontSize=90&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=gogochang's%20GitHub%20Profile&descAlign=76&descAlignY=52)
 
-<!--
-**gogochang/gogochang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요, iOS 개발자 **gogochang**입니다.  
+**Swift**언어를 사용하여 공부한 내용을 바탕으로 개인 프로젝트를 진행및 기록을 하고있습니다.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**✉️ E-mail** : okpo2581@gmail.com
+
+<br/>
+
+### **✏️ Skills**
+
+**Platforms & Languages**
+
+<img src="https://img.shields.io/badge/iOS-000?style=flat-square&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Swift-f05138?style=square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-008fc7?style=flat-square&logo=JAVA&logoColor=white"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Redmine-b32024?style=flat-square&logo=Redmine&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogochang)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgogochang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
