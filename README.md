@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=Header&text=Welcome!&fontSize=90&fontAlign=70&fontAlignY=35&animation=fadeIn&desc=gogochang's%20GitHub%20Profile&descAlign=76&descAlignY=52)
 
 안녕하세요, iOS 개발자 **gogochang**입니다.  
-**Swift**언어를 사용하여 공부한 내용을 바탕으로 개인 프로젝트를 진행및 기록을 하고있습니다.
+**Swift**언어와 iOS를 공부한 내용과 개인 프로젝트를 기록을 하고있습니다.
 
 <br/>
 
 **✉️ E-mail** : okpo2581@gmail.com
 
+**📝 Blog** : https://velog.io/@gogochang
+<br/>
 <br/>
 
 ### **✏️ Skills**
