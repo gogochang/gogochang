@@ -7,8 +7,6 @@
 <br/>
 
 **✉️ E-mail** : okpo2581@gmail.com
-
-**📝 Blog** : https://velog.io/@gogochang
 <br/>
 <br/>
 
