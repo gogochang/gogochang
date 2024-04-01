@@ -14,9 +14,9 @@
 
 **Platforms & Languages**
 
-<img src="https://img.shields.io/badge/iOS-000?style=flat-square&logo=IOS&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/iOS-000?style=flat-square&logo=IOS&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Swift-f05138?style=square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-008fc7?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-f05138?style=square&logo=Swift&logoColor=white"/> 
 
 **Tools**
 
