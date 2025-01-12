@@ -22,10 +22,11 @@
   <a herf="https://github.com/gogochang">
     <img src="https://img.shields.io/badge/okpo2581@gmail.com-EA4335?style=square&logo=Gmail&logoColor=white"/>
   </a>
+  <!--
   <a href="https://velog.io/@gogochang">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
   </a>
-  
+  -->
   　<br/>
 </div>
 
