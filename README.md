@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Introduction -->
   <h3>🙋‍♂️ gogochang's Github</h3>
-  <p>안녕하세요! iOS 주니어개발자 입니다.<br />
+  <p>안녕하세요!<br />
   더 좋은 코드를 작성하기 위해 고민하고 개선하는 것을 좋아합니다.</p>
   
   <!-- Skills Section -->
