@@ -6,9 +6,7 @@
   
   <!-- Skills Section -->
   <h4>📚 Skills</h4>
-  <img src="https://img.shields.io/badge/UIKit-40AEF0?style=square&logo=Swift&logoColor=black" />
-  <img src="https://img.shields.io/badge/RxSwift-B7178C?style=square&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-008FC7?style=square&logo=Swift&logoColor=white" />
+  -
 
   <!-- Tools Section -->
   <h4>🛠️ Tools</h4>
