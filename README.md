@@ -1,8 +1,7 @@
 <div align="center">
   <!-- Introduction -->
   <h3>🙋‍♂️ gogochang's Github</h3>
-  <p>안녕하세요!<br />
-  더 좋은 코드를 작성하기 위해 고민하고 개선하는 것을 좋아합니다.</p>
+ 
   
   <!-- Skills Section -->
   <h4>📚 Skills</h4>
@@ -28,18 +27,5 @@
   　<br/>
 </div>
 
-<div align="center">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gogochang&layout=donut&show_icons=true&theme=material-palenight&bg_color=ffffff&icon_color=58A6FF&text_color=696969&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gogochang&show_icons=true&theme=material-palenight&bg_color=ffffff&icon_color=58A6FF&text_color=696969&title_color=58A6FF&count_private=true" width="56%" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gogochang&bg_color=f8f9fa&line=58A6FF&color=58A6FF" width="94%" />
 
-  　<br/>
-   
-  <!-- Hit Counter -->
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?style=flat-square&url=https%3A%2F%2Fgithub.com%2Fgogochang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
-  </a>
-  
-</div>
 
